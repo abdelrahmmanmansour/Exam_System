@@ -1,6 +1,6 @@
 🧠 Exam System – C# OOP Project
 
-🖥️ Demo
+🎥 Watch Demo Video
 🎥 [Watch Demo Video](https://drive.google.com/drive/folders/15d9nQMW3lHCYYhv8JGl3CcqFGJb3yRQC?usp=sharing)
 
 📘 Overview
@@ -10,22 +10,22 @@ It demonstrates core OOP principles — inheritance, polymorphism, encapsulation
 
 The system supports:
 
-Multiple exam types (Final, Practical)
+🎓 Multiple exam types (Final, Practical)
 
-Various question types (MCQ, True/False)
+❓ Various question types (MCQ, True/False)
 
-Answer handling, validation, and subject association
+🧾 Answer handling, validation, and subject association
 
-Cloning and comparison using ICloneable and IComparable
+🧬 Cloning and comparison using ICloneable and IComparable
 
-Constructor chaining, overriding, and ToString() enhancements
+⚙️ Constructor chaining, overriding, and ToString() enhancements
 
 🚀 Features
 
 ✅ Object-oriented design with base and derived classes
 ✅ Implements interfaces (ICloneable, IComparable)
-✅ Supports different question and exam types
-✅ Validates input via a centralized validation helper
+✅ Supports multiple question and exam types
+✅ Centralized validation via ValidationHelper
 ✅ Demonstrates real-world OOP techniques and class relationships
 ✅ Clean, modular, and maintainable codebase
 
@@ -57,4 +57,17 @@ Polymorphism	Overriding ShowExam() in different exam types
 Abstraction	Abstract base class Question
 Encapsulation	Private fields with public properties
 Interfaces	Implementing ICloneable and IComparable
-Validation	Static ValidationHelper class ensures input safety
+Validation	Static ValidationHelper ensures input safety
+🛠️ Technologies
+
+Language: C#
+
+Paradigm: Object-Oriented Programming (OOP)
+
+IDE: Visual Studio / Visual Studio Code
+
+Framework: .NET
+
+🎯 Purpose
+
+This project serves as a practical demonstration of C# OOP fundamentals — perfect for students and developers looking to understand class relationships, interface use, inheritance hierarchies, and data validation through a real-world example.
